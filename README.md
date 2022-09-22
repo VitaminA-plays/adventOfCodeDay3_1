@@ -1,1 +1,1 @@
-# adventOfCode_3_1
+# adventOfCodeDay3_1
